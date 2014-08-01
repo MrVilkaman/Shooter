@@ -1,0 +1,53 @@
+﻿<flash_project name="Project" version="1">
+    <project_folder name="units" expanded="true">
+        <project_file path="./com/shooter/units/MainHero.as" filetype="as" />
+        <project_file path="./com/shooter/units/Zombie1.as" filetype="as" />
+        <project_file path="./com/shooter/units/UnitBase.as" filetype="as" />
+        <project_file path="./com/shooter/units/Spider1.as" filetype="as" />
+        <project_file path="./com/shooter/units/UnitWave.as" filetype="as" />
+        <project_file path="./com/shooter/units/Egg1.as" filetype="as" />
+        <project_file path="./com/shooter/units/BOSS1.as" filetype="as" />
+    </project_folder>
+    <project_folder name="Framework" expanded="false">
+        <project_file path="./com/framework/Amath.as" filetype="as" />
+        <project_file path="./com/framework/SWFProfiler.as" filetype="as" />
+        <project_file path="./com/framework/SimpleCaсhe.as" filetype="as" />
+        <project_file path="./com/framework/Key.as" filetype="as" />
+    </project_folder>
+    <project_folder name="Bullet" expanded="true">
+        <project_file path="./com/shooter/Bullet/GunBullet.as" filetype="as" />
+        <project_file path="./com/shooter/bullet/Grenade1.as" filetype="as" />
+        <project_file path="./com/shooter/bullet/BulletBase.as" filetype="as" />
+        <project_file path="./com/shooter/bullet/WebBall.as" filetype="as" />
+    </project_folder>
+    <project_folder name="interfaces" expanded="true">
+        <project_file path="./com/shooter/interfaces/IGameObject.as" filetype="as" />
+        <project_file path="./com/shooter/interfaces/IStaticObject.as" filetype="as" />
+    </project_folder>
+    <project_folder name="controllers" expanded="true">
+        <project_file path="./com/shooter/controllers/ObjectController.as" filetype="as" />
+        <project_file path="./com/shooter/controllers/StaticObjectController.as" filetype="as" />
+    </project_folder>
+    <project_folder name="obstacles" expanded="true">
+        <project_file path="./com/shooter/obstacles/BlockBase.as" filetype="as" />
+        <project_file path="./com/shooter/obstacles/Block1.as" filetype="as" />
+        <project_file path="./com/shooter/obstacles/CrossMapInfo.as" filetype="as" />
+        <project_file path="./com/shooter/obstacles/Equipment.as" filetype="as" />
+        <project_file path="./com/shooter/obstacles/ObjectBase.as" filetype="as" />
+        <project_file path="./com/shooter/obstacles/Trees.as" filetype="as" />
+    </project_folder>
+    <project_folder name="gui" expanded="false">
+        <project_file path="./com/shooter/gui/CastomMousePointer.as" filetype="as" />
+        <project_file path="./com/shooter/gui/HealthBar.as" filetype="as" />
+        <project_file path="./com/shooter/gui/StageDetector.as" filetype="as" />
+    </project_folder>
+    <project_folder name="weapow" expanded="true">
+        <project_file path="./com/shooter/weapon/AK_47.as" filetype="as" />
+        <project_file path="./com/shooter/weapon/WeaponBase.as" filetype="as" />
+        <project_file path="./com/shooter/weapon/Shotgan.as" filetype="as" />
+    </project_folder>
+    <project_file path="./Shooter.fla" filetype="fla" profile="" />
+    <project_file path="./com/shooter/Main.as" filetype="as" />
+    <project_file path="./com/shooter/Game.as" filetype="as" />
+    <project_file path="./com/shooter/World.as" filetype="as" />
+</flash_project>
